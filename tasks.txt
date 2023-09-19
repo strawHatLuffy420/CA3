@@ -1,2 +1,3 @@
 #I190522 will make and commit the add function and multiply function as well as make its test case. 
-#I190520 will make the divide function\s
+#I190520 will make the divide function
+#I190444 will make the subtract function
